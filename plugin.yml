@@ -2,4 +2,4 @@ name: PlayerCorpse
 version: 1.0.0[S255]
 author: Kingbobs
 api: [3.11.1]
-main: Kingbobs/Loader
+main: src/Kingbobs/Loader
