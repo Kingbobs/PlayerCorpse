@@ -8,7 +8,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\nbt\tag\CompoundTag;
 
-use Syams255\entity\PlayerCorpse;
+use Kingbobs\entity\PlayerCorpse;
 
 class Loader extends PluginBase implements Listener
 {
