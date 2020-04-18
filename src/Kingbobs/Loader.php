@@ -1,6 +1,6 @@
 <?php
 
-namespace Kingbobs;
+namespace Kingbobs/Loader;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\entity\Entity;
