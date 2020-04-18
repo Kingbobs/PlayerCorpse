@@ -1,0 +1,5 @@
+name: PlayerCorpse
+version: 1.0.0
+author: Kingbobs
+api: [3.11.1]
+main: Kingbobs\Loader
