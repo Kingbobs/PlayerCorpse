@@ -1,6 +1,6 @@
 <?php
 
-namespace Kingbobs\entity;
+namespace Kingbobs/entity;
 
 use pocketmine\nbt\tag\{ListTag, FloatTag, DoubleTag, CompoundTag, StringTag};
 use pocketmine\entity\Human;
